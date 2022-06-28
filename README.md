@@ -6,4 +6,4 @@ Required python packages:
 - Path
 - pytube
 
-Program may not work properly with long videos.
+Program may not work properly with very long videos.
