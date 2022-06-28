@@ -1,6 +1,6 @@
 # youtube-video-downloader
 
-![alt text](https://www.hizliresim.com/5xrst1b)
+![alt text](https://github.com/emirasal/youtube-video-downloader/blob/main/image.jpg?raw=true)
 
 Required python packages:
 
