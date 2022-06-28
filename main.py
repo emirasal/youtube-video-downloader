@@ -33,7 +33,7 @@ textbox.pack(pady = 15)
 textbox.insert(0, "Enter your youtube link here")
 
 
-l = tk.Label(root, text="You can change the video Quality:", font=("Orator Std", 12), width=70)
+l = tk.Label(root, text="Video Quality:", font=("Orator Std", 12), width=70)
 l.pack()
 
 # Resolution Entry
