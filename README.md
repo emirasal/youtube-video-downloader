@@ -8,5 +8,5 @@ Required python packages:
 - Path
 - pytube
 
-Program may not work properly with very long videos.
+Program may not work properly with large sized videos.
  
